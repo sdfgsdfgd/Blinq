@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Template2023" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/material_dynamic_neutral_variant60</item>
+        <item name="colorPrimaryVariant">@color/material_dynamic_neutral_variant60</item>
+        <item name="colorOnPrimary">@color/material_dynamic_neutral_variant60</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/material_dynamic_neutral_variant60</item>
+        <item name="colorSecondaryVariant">@color/material_dynamic_neutral_variant60</item>
+        <item name="colorOnSecondary">@color/material_dynamic_neutral_variant60</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >#353735</item>
+    </style>
+</resources>

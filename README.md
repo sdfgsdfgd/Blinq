@@ -1,2 +1,2 @@
-# Blinq
-Blinq Invitation App
+#
+ 
